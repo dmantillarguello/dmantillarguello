@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dmantillarguello
-- 👀 I’m interested in Coding
+- 👀 I’m interested for the Data Engineering
 - 🌱 I’m currently learning Python and Databricks
-- 💞️ I’m looking to collaborate on Power BI and R Code
+- 💞️ I’m looking to collaborate on Python and R
 - 📫 How to reach me Only here
 
 <!---
